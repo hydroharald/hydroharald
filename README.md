@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hydroharald
+- 👀 I’m interested in bouldering, photography
+- 🌱 I’m currently learning BSc of Software Engineering. Java, C# and Rust embedded.
+- 💞️ I’m looking to collaborate on a website for showcasing Windows mods, shell personalisations etc.
+- 📫 How to reach me (COMING SOON)
